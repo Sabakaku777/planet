@@ -1,0 +1,33 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 30px;
+  padding-block: 20px;
+  border-bottom: solid 1px white;
+  align-items: center;
+}
+.head {
+  display: flex;
+  gap: 40px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.title {
+  font-family: Antonio;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 36.23px;
+  letter-spacing: -1.0499999523162842px;
+  color: white;
+}
+.planets {
+  font-family: Spartan;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 1px;
+  color: white;
+}
